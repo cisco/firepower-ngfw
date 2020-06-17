@@ -9,7 +9,7 @@
       "value": "/subscriptions/33d2517e-ca88-46aa-beb2-74ff1dd61b41/resourceGroups/ewManagedImages-rg/providers/Microsoft.Compute/images/FTDv-6.2.2-81-Managed-Image"
     },
     "adminUsername": {
-      "value": "ewaterwo"
+      "value": "johndoe"
     },
     "adminPassword": {
       "value": "Sw104010401040"
